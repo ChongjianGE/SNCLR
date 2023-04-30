@@ -1,0 +1,6 @@
+timm=0.4.9
+tensorboard
+loguru
+einops
+ipdb
+numpy
